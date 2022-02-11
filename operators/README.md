@@ -136,7 +136,7 @@ Note: Boolean operators will be discussed in the Boolean Expressions Lab.
 Be sure to check your style:
 
 ```
-style50 operators
+style50 operators.c
 ```
 ## Check Your program before submitting
 ```
