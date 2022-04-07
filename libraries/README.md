@@ -40,6 +40,7 @@ The libraries that are included in your system files are called with the less th
 2. Prototype, or declare the function at the top of the file, just before the main function.
 
 {%spoiler"Hint"%}
+
 Remember to prototype a function, you include the ;
 
 ```
