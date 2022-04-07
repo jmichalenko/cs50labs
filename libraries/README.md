@@ -39,13 +39,13 @@ The libraries that are included in your system files are called with the less th
 1. Alter the code in multiplication.c.  Create a function that takes two numbers that are input, multiplies them together, and returns the product.
 2. Prototype, or declare the function at the top of the file, just before the main function.
 
-{% Hint %}
+{%spoiler"Hint"%}
 Remember to prototype a function, you include the ;
 
 ```
 int multiply_numbers(int a, int b);
 ```
-{% endspoiler %}
+{%endspoiler%}
 
 Make sure to compile and test the program.
 
