@@ -1,0 +1,5 @@
+lab50:
+  files:
+    - !exclude "*"
+    - !include multiplication.c
+    - !include multiplication.h
