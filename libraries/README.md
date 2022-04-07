@@ -54,11 +54,11 @@ Make sure to compile and test the program.
 Be sure to check your style:
 
 ```
-style50 array.c
+style50 multiplication.c
 ```
 ## Check Your program before submitting
 ```
-check50 jmichalenko/labchecks/main/array
+check50 jmichalenko/labchecks/main/libraries
 ```
 ## Submit your work
 ```
