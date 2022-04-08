@@ -37,7 +37,7 @@ The libraries that are included in your system files are called with the less th
 ## Your Turn!
 
 1. Alter the code in multiplication.c.  Create a function that takes two numbers that are input, multiplies them together, and returns the product.
-2. Prototype, or declare the function at the top of the file, just before the main function.
+2. Remember, prototype, or declare the function at the top of the file, just before the main function.
 
 {%spoiler"Hint"%}
 
@@ -45,6 +45,19 @@ Remember to prototype a function, you include the ;
 
 ```
 int multiply_numbers(int a, int b);
+```
+{%endspoiler%}
+
+3. After you know your function is working correctly, lets abstract the function and put it in our own custom library.
+4. Create a new file in the same working directory called multiplication.h
+5. Cut and paste the function declaration, and the function definition into the mulitplication.h file
+6. Make sure you put the include statment at the tope of the multiplication.c file
+
+{%spoiler"Hint"%}
+
+Remember, libraries in the working directory use "   " not <   >
+```
+#include "multiplication.h"
 ```
 {%endspoiler%}
 
