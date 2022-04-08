@@ -51,7 +51,7 @@ int multiply_numbers(int a, int b);
 3. After you know your function is working correctly, lets abstract the function and put it in our own custom library.
 4. Create a new file in the same working directory called multiplication.h
 5. Cut and paste the function declaration, and the function definition into the mulitplication.h file
-6. Make sure you put the include statment at the tope of the multiplication.c file
+6. Make sure you put the include statment at the top of the multiplication.c file
 
 {%spoiler"Hint"%}
 
