@@ -3,8 +3,9 @@
 
 int main (void)
 {
-  int numberA = get_int("Enter number A:  \n");
-  int numberB = get_int("Enter number B:  \n");
+  //To Do:  Write a function to prompt the user for numberA and numberB
   
-  printf("The product is: %i\n", numberA * numberB);
+  //To Do: Write a function to return the product of numberA and numberB.  "The product of the number is:  "
+  //After you are able to write the function and compile the program, make a header file and move the function protopye and definition here
+  //Add the include statement at the top of the file
 }
