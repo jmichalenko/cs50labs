@@ -29,7 +29,7 @@ The libraries that are included in your system files are called with the less th
 #include<stdio.h>
 #include<CS50.h>
 #include "ThisWouldbeALocalLibrary.h"
-...
+
 ```
 
 {% next %}
@@ -43,7 +43,7 @@ The libraries that are included in your system files are called with the less th
 
 Remember to prototype a function, you include the ;
 
-```
+```c
 int multiply_numbers(int a, int b);
 ```
 {%endspoiler%}
@@ -56,7 +56,8 @@ int multiply_numbers(int a, int b);
 {%spoiler"Hint"%}
 
 Remember, libraries in the working directory use "   " not <   >
-```
+
+```c
 #include "multiplication.h"
 ```
 {%endspoiler%}
