@@ -19,7 +19,7 @@ int main(void>
 {
 printf("Print f is a function that is being called from the CS50 library.");
 }
-...
+
 ```
 {% next %}
 
