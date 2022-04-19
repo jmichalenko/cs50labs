@@ -36,7 +36,7 @@ The libraries that are included in your system files are called with the less th
 
 ## Your Turn!
 
-1. Alter the code in multiplication.c.  Create a function that takes two numbers that are input, multiplies them together, and returns the product.
+1. Alter the code in multiplication.c.  Create a function that takes two numbers that are input, multiplies them together, and returns the product. The print f should read "The product of the two numbers is:  "
 2. Remember, prototype, or declare the function at the top of the file, just before the main function.
 
 {%spoiler"Hint"%}
